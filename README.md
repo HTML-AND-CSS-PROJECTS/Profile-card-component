@@ -29,7 +29,9 @@ My users should be able to:
   
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/soalemusharafa/Profile-card-component/blob/main/Screenshots/Screenshot%202021-07-28%20at%2014-45-29%20profile-card.png)
+![](https://github.com/soalemusharafa/Profile-card-component/blob/main/Screenshots/Screenshot%202021-07-28%20at%2014-45-29%20profile-card.png)
+
 
 
 ### Links
