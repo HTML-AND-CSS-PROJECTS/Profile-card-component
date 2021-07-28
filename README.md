@@ -30,7 +30,7 @@ My users should be able to:
 ### Screenshot
 
 ![](https://github.com/soalemusharafa/Profile-card-component/blob/main/Screenshots/Screenshot%202021-07-28%20at%2014-45-29%20profile-card.png)
-![](https://github.com/soalemusharafa/Profile-card-component/blob/main/Screenshots/Screenshot%202021-07-28%20at%2014-45-29%20profile-card.png)
+![](https://github.com/soalemusharafa/Profile-card-component/blob/main/Screenshots/Screenshot%202021-07-28%20at%2014-46-11%20profile-card.png)
 
 
 
