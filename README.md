@@ -29,15 +29,15 @@ My users should be able to:
   
 ### Screenshot
 
-![](https://github.com/soalemusharafa/Profile-card-component/blob/main/Screenshots/Screenshot%202021-07-28%20at%2014-45-29%20profile-card.png)
-![](https://github.com/soalemusharafa/Profile-card-component/blob/main/Screenshots/Screenshot%202021-07-28%20at%2014-46-11%20profile-card.png)
+![](https://github.com/HTML-AND-CSS-PROJECTS/Profile-card-component/blob/main/Screenshots/Screenshot%202021-07-28%20at%2014-45-29%20profile-card.png)
+![](https://github.com/HTML-AND-CSS-PROJECTS/Profile-card-component/blob/main/Screenshots/Screenshot%202021-07-28%20at%2014-46-11%20profile-card.png)
 
 
 
 ### Links
 
-- Solution URL:(https://github.com/soalemusharafa/Profile-card-component)
-- Live Site URL:( https://soalemusharafa.github.io/Profile-card-component)
+- Solution URL:(https://github.com/HTML-AND-CSS-PROJECTS/Profile-card-component)
+- Live Site URL:(https://html-and-css-projects.github.io/Profile-card-component/)
 
 ## My process
 -I created a repository on github clone to my desktop , created my index.html and index.css files, worked on them and finally push the code to github.
